@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "130355392243",
+    "firebase_url": "https://flutter-firebase-mtech.firebaseio.com",
+    "project_id": "flutter-firebase-mtech",
+    "storage_bucket": "flutter-firebase-mtech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130355392243:android:2cb3b7151a295984",
+        "android_client_info": {
+          "package_name": "firebasehrishi.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130355392243-pdleno0l1bhbi8t10thd2ugu6hd8260u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebasehrishi.demo",
+            "certificate_hash": "54bd56dd7a934775e7b245cc6ec20f7ebf6c4ca0"
+          }
+        },
+        {
+          "client_id": "130355392243-vogpcr68e6c0uchqooesjrif8trb17f4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "130355392243-vogpcr68e6c0uchqooesjrif8trb17f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgZmq0hL_8hu8fViT9eXqRUjewsy9eB4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130355392243-vogpcr68e6c0uchqooesjrif8trb17f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
